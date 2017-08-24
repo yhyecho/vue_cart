@@ -22,7 +22,7 @@
   * 灵活
   ![](./note/img/0102.png)
   * 高效
-    * 16kb min+gzip的运行大小
+    * 16kb min+gzip的运行大小
     * 超快的虚拟DOM
     * 最省心的优化
 2. Vue基础指令
